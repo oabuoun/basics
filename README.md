@@ -1,1 +1,1 @@
-# basics
+# DevSecOps Course - Basics
